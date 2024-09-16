@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="400" src="https://64.media.tumblr.com/4838640a23b50bf6ac09ad5c7e27060d/tumblr_inline_n25dvdMbDm1qhwjx8.gif"  />
+<img align="right" height="300" src="https://64.media.tumblr.com/4838640a23b50bf6ac09ad5c7e27060d/tumblr_inline_n25dvdMbDm1qhwjx8.gif"  />
 
 ###
 
