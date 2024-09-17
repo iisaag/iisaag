@@ -20,11 +20,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" href="mailto:belli.arantess@gmail.com />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
 ###
 
 <p align="left">⋆ 𝚎𝚜𝚝𝚘𝚞 𝚊𝚙𝚛𝚎𝚗𝚍𝚎𝚗𝚍𝚘 𝚙𝚢𝚝𝚑𝚘𝚗, 𝚑𝚝𝚖𝚕, 𝚌𝚜𝚜 𝚎 𝚓𝚜</p>
