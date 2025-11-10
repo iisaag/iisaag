@@ -1,9 +1,7 @@
-<!--- hello kitty welcome 
-<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE8uiLn25XjroZDkhXjdE7rspaMGP2LiDnh4SxCbNxfR8eas2u5rj5wOJtLi8XoKGR3L-RgRUo3ndyWtG75BvNT9OFC0VoI1caKH0zubwhurQf04HT48L6H6ROew_c7QfA5Jshaa7-mKGJ/s1600/2eg9mkx.gif"/> -->
-
-<div>
-  <h2>Oii! Meu nome é Isabelli</h2> 
-    <img src="https://cutekawaiiresources.wordpress.com/wp-content/uploads/2014/07/a_s_01_5389_01_00.gif?w=2000&h="/>
+<!--- hello kitty welcome -->
+<div align=center>
+    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhE8uiLn25XjroZDkhXjdE7rspaMGP2LiDnh4SxCbNxfR8eas2u5rj5wOJtLi8XoKGR3L-RgRUo3ndyWtG75BvNT9OFC0VoI1caKH0zubwhurQf04HT48L6H6ROew_c7QfA5Jshaa7-mKGJ/s1600/2eg9mkx.gif"/> 
+    <h1>Oii! Eu sou a Isabelli</h1>
 </div>
 
 <picture>
