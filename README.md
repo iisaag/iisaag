@@ -4,6 +4,39 @@
     <h1>Oii! Eu sou a Isabelli</h1>
 </div>
 
+<!--- cat gif -->
+<img align="right" width="300" src="https://66.media.tumblr.com/927365f0bbdd1f3d2f852bac8759f89b/tumblr_mh8a7wx1WG1rfjowdo1_r2_500.gif"  alt="pikachu"/>
+
+<!--- about -->
+<p align="left">✧.ᐟ Sou estudante de TI, apaixonada por front-end, design e java! </p>
+<p align="left">✧.ᐟ PT-BR/ENG</p>
+
+<!--- languages & my melody gif -->
+<div align="center">
+  <img src="https://s5.ezgif.com/tmp/ezgif-58af6b29acb0203f.gif" width=150 alt="hello kitty gif" align="left" margin="20" />
+  <div align="left" width="80%">
+    <h5>Possuo conhecimento em:</h5>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"/>
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"/>
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"/>
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="30" alt="java logo"/>
+    <img width="12"/><br>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" height="30" alt="figma logo"/>
+    <img width="12"/>    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt=mysql logo"/>
+    <img width="12"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="php"/>
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" alt=mongo db>
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="30" alt=insomnia
+  </div>
+<br><br>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iisaag/iisaag/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iisaag/iisaag/output/pacman-contribution-graph.svg">
