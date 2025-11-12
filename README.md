@@ -15,7 +15,7 @@
 <div align="center">
   <img src="https://i.pinimg.com/originals/73/f1/74/73f174ea136dbe21b6a92b31a9c1de49.gif" width=200 alt="hello kitty gif" align="left" margin="20"/>
   <div align="left" width="80%">
-    <h5>Possuo conhecimento em:</h5>
+    <h4>Possuo conhecimento em:</h4>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"/>
