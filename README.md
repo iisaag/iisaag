@@ -13,7 +13,7 @@
 
 <!--- languages & my melody gif -->
 <div align="center">
-  <img src="https://s5.ezgif.com/tmp/ezgif-58af6b29acb0203f.gif" width=150 alt="hello kitty gif" align="left" margin="20" />
+  <img src="https://i.pinimg.com/originals/73/f1/74/73f174ea136dbe21b6a92b31a9c1de49.gif" width=200 alt="hello kitty gif" align="left" margin="20"/>
   <div align="left" width="80%">
     <h5>Possuo conhecimento em:</h5>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
