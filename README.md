@@ -45,8 +45,11 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iisaag/iisaag/output/pacman-contribution-graph.svg">
 </picture>
 
-<!--- <div align=center>
-    <div align=left>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iisaag&layout=compact&theme=dracula" width=25%>
-</div> --->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iisaag&theme=dracula&show_icons=true&hide_border=true&layout=compact" align="left" margin="20"/>
+  <img src="https://i.pinimg.com/originals/66/2c/da/662cda1ea6bdac6afb16973961c2c8d1.gif" height=180/>
+  <img width=20px/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iisaag&theme=dracula&show_icons=true&hide_border=true&count_private=true" width=400 margin=30 />  
+</div>
+<br>
 
