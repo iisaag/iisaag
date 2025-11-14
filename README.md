@@ -30,7 +30,7 @@
         <img width="12"/>    
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="30" alt=mysql logo"/>
         <img width="12"/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" alt="php"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gleam/gleam-plain.svg" height="30" alt="php"/>
         <img width="12" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="30" alt=mongo db/>
         <img width="12" />
