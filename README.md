@@ -5,7 +5,7 @@
 </div>
 
 <!--- pikachu gif -->
-<img align="right" width="300" src="https://66.media.tumblr.com/927365f0bbdd1f3d2f852bac8759f89b/tumblr_mh8a7wx1WG1rfjowdo1_r2_500.gif"  alt="pikachu"/>
+<img align="right" width="400" src="https://i.pinimg.com/originals/79/17/db/7917db2cdce70b1152cb795d19608ca3.gif"  alt="pikachu"/>
 
 <!--- about -->
 <p align="left">✧.ᐟ Sou estudante de TI, apaixonada por front-end, design e java! </p>
@@ -13,7 +13,7 @@
 
 <!--- languages & my melody gif -->
 <div align="center">
-  <img src="https://i.pinimg.com/originals/73/f1/74/73f174ea136dbe21b6a92b31a9c1de49.gif" width=200 alt="hello kitty gif" align="left" margin="20"/>
+  <img src="https://media.tenor.com/aUDLZrT6eloAAAAj/hello-kitty.gif" width=200 alt="hello kitty gif" align="left" margin="20"/>
   <div align="left" width="80%">
         <h4>Possuo conhecimento em:</h4>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"/>
@@ -47,8 +47,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iisaag&theme=dracula&show_icons=true&hide_border=true&layout=compact" align="left" margin="20"/>
-  <img src="https://i.pinimg.com/originals/66/2c/da/662cda1ea6bdac6afb16973961c2c8d1.gif" height=120/>
-  <img src="https://github-readme-stats.vercel.app/api?username=iisaag&theme=dracula&show_icons=true&hide_border=true&count_private=true" width=400 margin=30 />  
+  <img src="https://i.pinimg.com/originals/b1/6d/0b/b16d0bf1b1202c7c990953457da50cb5.gif" height=120 margin="120"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iisaag&theme=dracula&show_icons=true&hide_border=true&count_private=true" width=400 align="right"/>  
 </div>
 <br>
 
